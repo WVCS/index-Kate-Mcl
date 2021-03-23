@@ -1,12 +1,12 @@
 ul{
-  list-style-type: square;
-  float: left ; 
+  float: left; 
 }
 h1{
+  font-family:Georgia,Times, sans-serrif;
   text-align: center; 
 }
 table {
-  font-family: arial, sans-serif;
+  font-family:Georgia,Times, sans-serrif;
   border-collapse: collapse;
   width: 90%;
 }
@@ -23,4 +23,11 @@ td, th {
 }
 tr:nth-child(even) {
   background-color: #dddddd;
+}
+h2{
+  font-family:Georgia,Times, sans-serrif;
+  font-size: 30px;
+}
+h3{
+    font-size: 20px;
 }
